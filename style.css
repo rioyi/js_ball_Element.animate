@@ -1,0 +1,23 @@
+.container{
+  position: relative;
+	top: 100px;
+	width: 100vw;
+	height: 800px;
+	align-items: left;
+	justify-content: center;
+	margin: auto;
+}
+
+.pelota{
+	background-color: rgb(200,50,5);
+	border-radius: 50%;
+	width: 80px;
+	height: 80px;
+}
+
+.shadow{
+	background-color: rgba(0,0,0,0.3);
+	width: 80px;
+	height: 20px;
+	border-radius: 50%;
+}
